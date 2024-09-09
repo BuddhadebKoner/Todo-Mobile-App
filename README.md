@@ -10,7 +10,7 @@ This is my first app built using **Expo Go** and **React Native**. The app focus
 # APK Download
 Download the APK for Android here:
 
-[Download APK](https://example.com/download-apk)
+[Download APK](https://github.com/BuddhadebKoner/Todo-Mobile-App/releases/tag/v1.0.0)
 
 # Note
 This repository does not accept pull requests.
