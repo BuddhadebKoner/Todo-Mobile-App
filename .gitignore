@@ -1,0 +1,72 @@
+/project01
+
+
+# macOS files
+.DS_Store
+
+# Node modules
+/node_modules
+.npm
+.yarn
+.pnp.*
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo
+.expo
+.expo-shared
+
+# Metro bundler
+/metro-cache
+
+# React Native
+*.log
+*.lock
+*.lock.json
+
+# Miscellaneous
+.env
+.idea
+.vscode
+*.iml
+
+# Build directories
+/.expo
+/build
+/.gradle
+/.expo-build
+/ios/build
+/android/build
+
+# Xcode files
+ios/Pods/
+ios/*.xcodeproj
+ios/*.xcworkspace
+ios/*.xcuserdatad
+ios/xcuserdata/
+
+# Android files
+/android/.gradle
+/android/.idea
+/android/local.properties
+/android/.cxx
+
+# Sentry or crashlytics
+.sentryclirc
+crashlytics-build.properties
+
+# Ignore transient expo builds
+/web-build
+/expo-go-debug.apk
+/expo-go-release.apk
+/expo-go-ios.tar.gz
+
+# Prettier and ESLint
+.prettierignore
+.eslintcache
+
+# Lint/format cache
+.cache
